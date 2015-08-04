@@ -1,0 +1,3 @@
+# compressing libs 0.1.0
+
+First stable version. Nothing fancy here, just installing compressing libraries through yum.
