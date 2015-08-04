@@ -1,7 +1,7 @@
 Nice.scalaProject
 
 name := "compressinglibs"
-organization := "ohnosequencesBundles"
+organization := "ohnosequences-bundles"
 description := "A bundle for compressinglibs tool"
 
 publishBucketSuffix := "era7.com"
