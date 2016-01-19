@@ -2,7 +2,7 @@
 ```scala
 package ohnosequencesBundles.statika
 
-import ohnosequences.statika._, bundles._, instructions._
+import ohnosequences.statika._
 
 
 case object compressinglibs extends Bundle() {
